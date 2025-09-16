@@ -54,6 +54,11 @@ print("Part 2: result =", result2)
 # =============================================
 # Your code for part 3 under this line and before the print statements
 
+a=100 #treats
+b=13 #dogs
+
+result3 = a//b
+
 print("Part 3: a =",a)
 print("Part 3: b =",b)
 print("Part 3: result =", result3)
@@ -64,5 +69,9 @@ print("Part 3: result =", result3)
 # =============================================
 # Your code for part 4 under this line and before the print statements
 
+a=100 #treats
+b=13 #dogs
+
+result4 = a % b
 print("Part 4: result =", result4)
 # End of Part 4 ----------------------
